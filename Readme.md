@@ -1,4 +1,4 @@
-#WanderLust
+# WanderLust
 
 Wanderlust – Airbnb-Inspired Vacation Rental Platform
 
